@@ -5,7 +5,7 @@ Welcome to My GitHub Profile ! I'm **Hemaxi Prajapati**, a passionate PHP develo
 ## 💼 Skills
 Below is a list of my skills and technologies I am proficient in:
 
-- Symfony
+- Symfony / Laravel
 - PHP
 - HTML/CSS
 - JavaScript
